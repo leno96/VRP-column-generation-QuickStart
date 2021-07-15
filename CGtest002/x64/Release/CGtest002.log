@@ -1,0 +1,8 @@
+﻿  CGtest002.cpp
+c:\users\lenovo\source\repos\cgtest003\cgtest002\cgtest002.cpp(632): warning C4129: “s”: 不可识别的字符转义序列
+  正在生成代码
+  4 of 891 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CGtest002.vcxproj -> C:\Users\Lenovo\source\repos\CGtest003\x64\Release\CGtest002.exe
